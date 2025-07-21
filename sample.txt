@@ -1,0 +1,2 @@
+This is a DevOps and DevSecOps practice file, it will have the data for hands-on.
+Such as Linux commnds, Git Commands, Docker Commands, Kubernetes Commands....etc
